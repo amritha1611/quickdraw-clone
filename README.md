@@ -2,10 +2,6 @@
 
 Welcome to **QuickDraw Clone powered by Gemini**, a Streamlit application that combines the power of Google Gemini AI and Streamlit Drawable Canvas to create an interactive Pictionary-style drawing game. Challenge your creativity and the AI's ability to guess your doodles in this fun and engaging app.
 
-<a href="https://quickdraw-clone.streamlit.app/" target="_blank">
-  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
-</a>
-
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quickdraw-clone.streamlit.app/)
 
 ---
